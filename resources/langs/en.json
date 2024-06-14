@@ -1,0 +1,8 @@
+{
+    "hello": "Hello {}, {}, {name3}" ,
+    "day": {
+        "one": "1st day",
+        "two": "2nd day",
+        "other": "{}th day"
+    }
+}

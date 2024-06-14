@@ -1,0 +1,8 @@
+{
+    "hello": "Salom {}, {}, {name3}",
+    "day": {
+        "one": "1-kun",
+        "two": "2-kun",
+        "other": "{}-kun"
+    }
+}
